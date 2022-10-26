@@ -1,0 +1,19 @@
+<h3>{{title}}</h3>
+<!-- <div class="list-group">
+    <ng-select [items]="category" bindLabel="name" [multiple]=true></ng-select>
+
+</div>
+<div *ngFor="let cat of category">
+    <a class="list-gorup" routerLink="products/category/{{cat.id}}">
+        {{cat.name | uppercase}}</a>
+
+</div> -->
+
+<div class="nav-scroller py-1 mb-2">
+    <nav class="nav d-flex">
+        <a class="p-2 link-secondary" 
+        routerLink="/products">Tüm Ürünler</a>
+        <a *ngFor="let cat of category" class="p-2 link-secondary" 
+        routerLink="/products/category/{{cat.id}}">{{cat.name}}</a>
+    </nav>
+</div>
