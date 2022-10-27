@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ApicallComponent } from './apicall/apicall.component';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'proje2';
+  constructor(){
+
+  }
+
+  ngOnInit(){
+    
+
+  }
+
 }
