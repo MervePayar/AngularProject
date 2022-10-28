@@ -12,7 +12,7 @@ export class ApicallComponent implements OnInit {
   data:any;
   constructor(private apiService: ApicallService) { }
   ngOnInit() {
-    this.apiService.getData().subscribe(response => {
+    this.apiService.getDataUser().subscribe(response => {
       this.data = response
       console.log(this.data)
       console.log("merve")

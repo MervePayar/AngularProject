@@ -1,0 +1,12 @@
+<div class="container">
+    <div class="row">
+        <div class="card" *ngFor="let user of userModel" style="width: 18rem; margin:2em">
+            <img style="margin-top: 1em;" src="https://images.unsplash.com/photo-1611915387288-fd8d2f5f928b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">{{ user.name}}</h5>
+              <p class="card-text">{{user.about | limitText }}</p>
+              <a href="#" class="btn btn-primary">Information</a>
+            </div>
+          </div>
+    </div>
+</div>

@@ -1,0 +1,173 @@
+{
+    "CarCategories": [
+        {
+            "ID": 3,
+            "CATEGORY": "Audi",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Audi",
+            "IMAGEURL":"https://cdn.dsmcdn.com/ty9/product/media/images/20200816/16/8162588/81602080/0/0_org_zoom.jpg"
+        },
+        {
+            "ID": 4,
+            "CATEGORY": "Bmw",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Bmw",
+             "IMAGEURL":"https://productimages.hepsiburada.net/s/38/1500/10577992253490.jpg"
+        },
+        {
+            "ID": 5,
+            "CATEGORY": "Chevrolet",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Chevrolet",
+             "IMAGEURL":"https://productimages.hepsiburada.net/s/51/375/11079376404530.jpg"
+        },
+        {
+            "ID": 6,
+            "CATEGORY": "Citroen",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Citroen",
+             "IMAGEURL":"https://cdn03.ciceksepeti.com/cicek/kcm49350178-1/XL/citroen-araba-arac-logosu-sticker-yapistirma-kcm49350178-1-0ee0174a17c24ebc9451b419cd34585c.jpg"
+        },
+        {
+            "ID": 7,
+            "CATEGORY": "Dacia",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Dacia",
+             "IMAGEURL":"https://www.carlogos.org/logo/Dacia-logo-2008-640x550.jpg"
+        },
+        {
+            "ID": 8,
+            "CATEGORY": "Fiat",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Fiat",
+             "IMAGEURL":"https://www.carlogos.org/logo/Fiat-logo-2006-640x550.jpg"
+        },
+        {
+            "ID": 9,
+            "CATEGORY": "Ford",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Ford",
+             "IMAGEURL":"https://www.carlogos.org/car-logos/ford-logo-2017-show.png"
+        },
+        {
+            "ID": 10,
+            "CATEGORY": "Honda",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Honda",
+             "IMAGEURL":"https://www.carlogos.org/car-logos/honda-logo-1700x1150-show.png"
+        },
+        {
+            "ID": 11,
+            "CATEGORY": "Hyundai",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Hyundai",
+             "IMAGEURL":"https://www.carlogos.org/logo/Hyundai-logo-silver-640x401.jpg"
+        },
+        {
+            "ID": 12,
+            "CATEGORY": "Jeep",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Jeep",
+             "IMAGEURL":"https://www.carlogos.org/logo/Jeep-logo-green-640x258.jpg"
+        },
+        {
+            "ID": 13,
+            "CATEGORY": "Kia",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Kia",
+             "IMAGEURL":"https://www.carlogos.org/logo/Kia-logo-640x321.jpg"
+        },
+        {
+            "ID": 15,
+            "CATEGORY": "Land rover",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Land rover",
+             "IMAGEURL":"https://www.carlogos.org/logo/Land-Rover-logo-2011-640x335.jpg"
+        },
+        {
+            "ID": 16,
+            "CATEGORY": "Mazda",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Mazda",
+             "IMAGEURL":"https://www.carlogos.org/logo/Mazda-logo-1997-640x550.jpg"
+        },
+        {
+            "ID": 17,
+            "CATEGORY": "Mercedes",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": " Mercedes",
+             "IMAGEURL":"https://www.carlogos.org/logo/Mercedes-Benz-logo-2011-640x369.jpg"
+        },
+        {
+            "ID": 19,
+            "CATEGORY": "Mitsubishi",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": "Mitsubishi",
+             "IMAGEURL":"https://www.carlogos.org/logo/Mitsubishi-logo-640x550.jpg"
+        },
+        {
+            "ID": 20,
+            "CATEGORY": "Nissan",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": "Nissan",
+             "IMAGEURL":"https://www.carlogos.org/car-logos/nissan-logo-2020-black-show.png"
+        },
+        {
+            "ID": 21,
+            "CATEGORY": "Opel",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": "Opel",
+             "IMAGEURL":"https://www.carlogos.org/logo/Opel-logo-2009-640x496.jpg"
+        },
+        {
+            "ID": 22,
+            "CATEGORY": "Peugeot",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": "Peugeot",
+             "IMAGEURL":"https://www.carlogos.org/logo/Peugeot-logo-2010-640x451.jpg"
+        },
+        {
+            "ID": 23,
+            "CATEGORY": "Porsche",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": "Porsche",
+             "IMAGEURL":"https://www.carlogos.org/car-logos/porsche-logo-2100x1100-show.png"
+        },
+        {
+            "ID": 24,
+            "CATEGORY": "Renault",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": "Renault",
+             "IMAGEURL":"https://www.carlogos.org/logo/Renault-logo-2015-640x550.jpg"
+        },
+        {
+            "ID": 25,
+            "CATEGORY": "Seat",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": "Seat",
+             "IMAGEURL":"https://www.carlogos.org/logo/SEAT-logo.png"
+        },
+
+        {
+            "ID": 29,
+            "CATEGORY": "Toyota",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": "Toyota",
+             "IMAGEURL":"https://www.carlogos.org/car-logos/toyota-logo-2019-3700x1200-show.png"
+        },
+        {
+            "ID": 30,
+            "CATEGORY": "Volkswagen",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": "Volkswagen",
+             "IMAGEURL":"https://www.carlogos.org/logo/Volkswagen-logo-2019-640x500.jpg"
+        },
+        {
+            "ID": 31,
+            "CATEGORY": "Volvo",
+            "MAINCATEGORY": "Automobile",
+            "LONGNAME": "Volvo",
+             "IMAGEURL":"https://www.carlogos.org/logo/Volvo-logo-2014-640x550.jpg"
+        }
+    ]
+}

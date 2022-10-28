@@ -1,0 +1,22 @@
+<div class="container">
+    <div class="row">
+        <div class="card" *ngFor="let car of audi2020" style="width: 18rem; margin:2em">
+            <div *ngIf="car.brand=='Audi'">
+                <div class="card-body">
+                    <h5 class="card-title">{{car.brand}}</h5>
+                    <p class="card-text">{{car.model}}</p>
+                    <a href="#" class="btn btn-primary">Information</a>
+                </div>
+            </div>
+        </div>
+        <div class="card" *ngFor="let carMerc of mercedes2020" style="width: 18rem; margin:2em">
+            <div *ngIf="carMerc.brand=='Mercedes'">
+                <div class="card-body">
+                    <h5 class="card-title">{{carMerc.brand}}</h5>
+                    <p class="card-text">{{carMerc.model}}</p>
+                    <a href="#" class="btn btn-primary">Information</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

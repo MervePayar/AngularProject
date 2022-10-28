@@ -1,0 +1,12 @@
+<div class="container">
+    <div class="row">
+        <div class="card" *ngFor="let car of carListModel" style="align-items: center; width: 18rem; margin:2em">
+            <img style="margin-top: 1em; width:10em; height: 10em;" src={{car.imageUrl}} class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">{{car.category}}</h5>
+              <p class="card-text">{{car.maincategory}}</p>
+              <a routerLink="../car-model/{{car.category}}" class="btn btn-primary">Details</a>
+            </div>
+          </div>
+    </div>
+</div>

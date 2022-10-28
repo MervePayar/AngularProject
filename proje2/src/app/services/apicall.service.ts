@@ -6,9 +6,17 @@ export class ApicallService {
 
   constructor(private http:HttpClient) { }
 
-  path="http://localhost:3000/users"
-
-  getData(){
-    return this.http.get(this.path);
+  pathUser="http://localhost:3000/users"
+  pathCar="http://localhost:3000/CarCategories"
+  pathCarModel="http://localhost:3000/CarModels"
+  getDataUser(){
+    return this.http.get(this.pathUser);
   }
+  getDataCar(){
+    return this.http.get(this.pathCar);
+  }
+  getDataCarModel(){
+    return this.http.get(this.pathCarModel)
+  }
+  
 }
