@@ -76596,5 +76596,38 @@
     "casetype": "Off Road",
     "variant": "Volvo XC90 Other"
    }
+  ],
+      "carModelImage":[
+          {
+              "carModel":"Audi",
+              "carModelName":"A3",
+              "imageUrl":"https://cdn.motor1.com/images/mgl/7MG4o/s1/2020-audi-a3-sportback.jpg"
+          },
+          {
+              "carModel":"Audi",
+              "carModelName":"A6",
+              "imageUrl":"https://www.edmunds.com/assets/m/for-sale/ad-waue8af25ln069042/img-1-600x400.jpg"
+          },
+          {
+              "carModel":"Audi",
+              "carModelName":"A4",
+              "imageUrl":"https://cdn.motor1.com/images/mgl/brOzk/s1/2020-audi-a4.jpg"
+          },
+          {
+              "carModel":"Audi",
+              "carModelName":"E-Tron",
+              "imageUrl":"https://cdn.motor1.com/images/mgl/mG69P/s1/audi-e-tron-sportback-2020-im-test.jpg"
+          },
+          {
+              "carModel":"Audi",
+              "carModelName":"Q2",
+              "imageUrl":"https://cdn.motor1.com/images/mgl/3o3Lx/s1/audi-q2-2020.jpg"
+          },
+          {
+              "carModel":"Audi",
+              "carModelName":"Q8",
+              "imageUrl":"https://hips.hearstapps.com/hmg-prod/images/2020-audi-q8-mmp-1-1572461716.jpg?crop=0.757xw:0.846xh;0.114xw,0.154xh&resize=640:*"
+          }
   ]
+  
   }

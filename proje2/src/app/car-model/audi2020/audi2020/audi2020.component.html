@@ -1,0 +1,45 @@
+<div class="container">
+    <div class="row">
+        <div class="card" *ngFor="let car of audi2020" style="width: 18rem; margin:2em">
+            <div class="card-body">
+                <div class="imageClass" *ngFor="let model of carImage">
+                    <div *ngIf="car.model=='A3'">
+                        <div *ngIf="model.carModelName=='A3'">
+                            <img src={{model.imageUrl}}>
+                        </div>
+                    </div>
+                    <div *ngIf="car.model=='A6'">
+                        <div *ngIf="model.carModelName=='A6'">
+                            <img src={{model.imageUrl}} >
+                        </div>
+                    </div>
+                    <div *ngIf="car.model=='A4'">
+                        <div *ngIf="model.carModelName=='A4'">
+                            <img src={{model.imageUrl}}>
+                        </div>
+                    </div>
+                    <div *ngIf="car.model=='E-Tron'">
+                        <div *ngIf="model.carModelName=='E-Tron'">
+                            <img src={{model.imageUrl}}>
+                        </div>
+                    </div>
+                    <div *ngIf="car.model=='Q2'">
+                        <div *ngIf="model.carModelName=='Q2'">
+                            <img src={{model.imageUrl}}>
+                        </div>
+                    </div>
+                    <div *ngIf="car.model=='Q8'">
+                        <div *ngIf="model.carModelName=='Q8'">
+                            <img src={{model.imageUrl}} >
+                        </div>
+                    </div>
+                </div>
+                <h5 class="card-title">{{car.brand}}</h5>
+                <p class="card-text"> Model : {{car.model}}</p>
+                <p class="card-text"> Gear Type : {{car.shifttype}}</p>
+                <p class="card-text"> Fuel Type : {{car.fuel}}</p>
+                <a href="#" class="btn btn-primary">More..</a>
+            </div>
+        </div>
+    </div>
+</div>

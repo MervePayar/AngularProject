@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild } from '@angular/core';
 import { ApicallComponent } from './apicall/apicall.component';
 
 @Component({
